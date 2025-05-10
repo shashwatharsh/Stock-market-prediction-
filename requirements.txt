@@ -4,4 +4,4 @@ matplotlib
 yfinance
 streamlit
 keras
-tensorflow
+tensorflow==2.8.0
