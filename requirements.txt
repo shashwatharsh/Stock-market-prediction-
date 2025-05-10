@@ -1,7 +1,7 @@
 numpy
 pandas
 matplotlib
-yfinance
+yfinance==0.2.28
 streamlit
 keras
 tensorflow==2.8.0
